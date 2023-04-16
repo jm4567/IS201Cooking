@@ -1,0 +1,101 @@
+.common{
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+    text-align: center !important;
+}
+
+.header{
+    height: 200px !important; 
+    background-color: black !important;
+    color: whitesmoke !important;
+    font-size: 35px !important;
+    line-height: 200px !important;
+}
+
+
+.mainbody{
+    background-color: whitesmoke !important;
+    font-size: 27px !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-style:oblique !important;
+}
+
+#websites{
+    color: black !important;
+    font-style: normal !important;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+
+
+}
+
+img{
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 40% !important;
+}
+
+nav{
+    background-color: rgb(195, 195, 195) !important;
+    font-size: 25px !important;
+    padding: 2% !important;
+    overflow: hidden !important;
+
+}
+nav a{ 
+    float: center !important;
+    color: black !important;
+    padding: 10px 20px !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+
+}
+nav a:hover{
+    background-color: aliceblue !important;
+}
+
+ul{ 
+    list-style-position: inside !important;
+    text-align: left !important;
+    margin-left: auto !important;
+    margin-left: auto !important;
+    font-size: 27px !important;
+    font-weight: bold !important;
+    font-style: normal !important;
+}
+
+.ingredients{ 
+    font-weight: 350 !important;
+    font-size: 25px !important;
+}
+
+ol{
+    list-style-position: inside !important;
+    text-align: left !important;
+    margin-left: auto !important;
+    margin-left: auto !important;
+    font-weight: 350 !important;
+    font-size: 25px !important;
+}
+
+.direction{
+    font-style: normal !important;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+.tableauPlaceholder{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 10% !important;
+}
+
+.subs{
+    font-style: normal !important;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+.footer{
+    background-color: rgb(195, 195, 195) !important;
+    padding: 2% !important;
+    font-size: 20px !important;
+    font-style: italic !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    
+}
